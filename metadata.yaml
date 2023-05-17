@@ -1,0 +1,28 @@
+_repo: The-old-vicarage-b-A-novel_70732
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hubback, Catherine Anne Austen
+    gutenberg_agent_id: '55893'
+    url: http://www.gutenberg.org/2009/agents/55893
+description: ''
+gutenberg_issued: '2023-05-10'
+identifiers:
+  gutenberg: '70732'
+language: en
+pgterms:marc904: https://archive.org/details/oldvicaragenovel00hubb/page/n3/mode/2up
+pgterms:marc905: 20200729111538hubback
+pgterms:marc906: '1856'
+pgterms:marc907: US
+production_note: Carol Brown, Mary Glenn Krause, Charlene Taylor, Boston Public Library
+  and the Online Distributed Proofreading Team at https://www.pgdp.net (This file
+  was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: '  $aUnited States :$bW. P. Fetridge & Co., $c1856.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The old vicarage : $b A novel'
+url: http://www.gutenberg.org/ebooks/70732
